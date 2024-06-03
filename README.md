@@ -7,6 +7,17 @@
 
 为了成为一个优秀的架构师努力中。。。
 
+## 个人博客
+clover-blog.cn(维护中...
+
+## npm插件
+
+https://www.npmjs.com/package/react-click-display-fireworks
+
+## idea插件
+
+generateEntityBuilder
+
 ## 📬 我的联系方式
 
 如果有较急的问题，可以邮箱私密我：sxiaotian773@foxmail.com
