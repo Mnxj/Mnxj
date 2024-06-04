@@ -12,7 +12,8 @@ clover-blog.cn(维护中...
 
 ## npm插件
 
-https://www.npmjs.com/package/react-click-display-fireworks
+https://www.npmjs.com/package/react-click-display-fireworks(鼠标点击动画)
+https://www.npmjs.com/package/react-clover-loading（转场切换动画）
 
 ## idea插件
 
