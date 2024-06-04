@@ -13,11 +13,12 @@ clover-blog.cn(维护中...
 ## npm插件
 
 https://www.npmjs.com/package/react-click-display-fireworks(鼠标点击动画)
+
 https://www.npmjs.com/package/react-clover-loading（转场切换动画）
 
 ## idea插件
 
-generateEntityBuilder
+https://plugins.jetbrains.com/plugin/17989-generateentitybuilder 后端敏捷开发一键生成代码
 
 ## 📬 我的联系方式
 
