@@ -23,3 +23,8 @@ https://plugins.jetbrains.com/plugin/17989-generateentitybuilder 后端敏捷开
 ## 📬 我的联系方式
 
 如果有较急的问题，可以邮箱私密我：sxiaotian773@foxmail.com
+
+## 其他社交
+
+b站: https://space.bilibili.com/57933284
+网易云： https://music.163.com/#/user/home?id=394247655
